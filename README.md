@@ -1,1 +1,1 @@
-[Visit our website](https://devharsh98.github.io/GitHub-Profile-Wrapper.github.io/)
+[Visit our website](https://devharsh98.github.io/GitHub-Profile-Wrapper.github.io/){:target="_blank"}
